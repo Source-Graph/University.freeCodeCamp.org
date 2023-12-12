@@ -1,2 +1,5 @@
 # University.freeCodeCamp.org
-# freeCodeCamp.org  Home: https://www.youtube.com/@freecodecamp
+# Home:
+site: https://www.freecodecamp.org/learn
+
+channel: https://www.youtube.com/@freecodecamp
